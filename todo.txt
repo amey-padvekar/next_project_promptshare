@@ -1,0 +1,6 @@
+Implement Search  code within feed component
+    - by prompt content
+    - by Tag
+    - by username
+Implement Click on Tag
+Implement View other profiles
